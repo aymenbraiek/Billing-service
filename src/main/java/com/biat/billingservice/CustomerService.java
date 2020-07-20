@@ -1,4 +1,4 @@
-package com.biat.billingservice.repository;
+package com.biat.billingservice;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
